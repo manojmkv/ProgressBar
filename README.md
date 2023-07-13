@@ -1,3 +1,2 @@
 # ProgressBar
-Created with CodeSandbox
-It is a Progressbar made with React and css only.
+It is an example of Progressbar made with React and css only.
